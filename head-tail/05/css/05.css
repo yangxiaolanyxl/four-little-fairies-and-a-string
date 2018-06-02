@@ -1,0 +1,180 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+ol,ul,li{
+	list-style: none;
+}
+a{
+	text-decoration: none;
+}
+/*head开始*/
+.head{
+	height: 153px;
+	background: url(../images/hbg.png) no-repeat center center;
+}
+.midder{
+	width: 1200px;
+	height: 153px;
+	margin: 0 auto;
+	overflow: hidden;
+}
+.upperleft{
+	height: 25px;
+	width: 1200px;
+	margin-top: 55px;
+}
+.phone{
+	font-size: 22px;
+	color: #0b4199;
+}
+.chinese,.register{
+	font-size: 14px;
+	color: #7d7d7d;
+}
+.language{
+	font-size: 16px;
+	color: #ef2c34;
+}
+.phone{
+	margin-left: 740px;
+}
+.chinese{
+	margin-left: 29px;
+
+}
+.language{
+	margin-left: 19px;
+
+}
+.menu li{
+	float:left;
+	height: 33px;
+	width: 82px;
+	text-align: center;
+	margin-right: 39px;
+	font-size: 16px;
+	color: #434343;
+	padding-top: 17px;
+}
+.menu li:first-child{
+	text-align: left;
+	margin-right: 0px;
+
+}
+.skill{
+	background: #2756a4;
+}
+.menu{
+	height: 50px;
+	margin-top: 25px;
+
+}
+.menu input{
+	width: 254px;
+	height: 36px;
+	font-size: 15px;
+	background: url(../images/search.png) no-repeat center right;
+	border: none;
+	margin-left: 15px;
+}
+.rightinput{
+    padding-top: 4px;
+}
+
+/*head结束*/
+/*tail开始*/
+.tail{
+	height: 364px;
+	background: #454545;
+}
+.topblue{
+	height: 60px;
+	width: 100%;
+	background: #0b4199;
+}
+.toptext{
+	width: 1200px;
+	height: 60px;
+	margin: 0 auto;
+}
+.toptext li{
+	float: left;
+	height: 60px;
+
+}
+.toptext li img{
+	margin-top: 15px;
+}
+.toptext li:first-child{
+	margin-right: 162px;
+}
+.toptext li:last-child{
+	margin-left: 490px;
+}
+.bottomgray{
+	width: 1200px;
+	margin: 0 auto;
+	height: 264px;
+	padding-top: 40px;
+}
+.bottomleft{
+	width: 890px;
+	height: 198px;
+	border-right: 1px solid #525252;
+	float: left;
+	margin-bottom: 40px;
+}
+.bottomleft ul{
+	float: left;
+	width: 185px;
+	text-align: left;
+	font-size: 14px;
+	color: #ffffff;
+}
+.bottomleft ul:first-child{
+	width: 150px;
+}
+.bottomleft ul li:first-child{
+	font-size: 16px;
+	margin-bottom: 24px;
+	margin-top: 18px;
+}
+.bottomleft ul li{
+	margin-bottom: 10px;
+}
+.bottomright{
+	width: 275px;
+	height: 198px;
+	float: left;
+	margin-left: 34px;
+	color: #ffffff;
+	font-size: 12px;
+	margin-bottom: 40px;
+}
+.bottomright img{
+	margin-bottom: 30px;
+	margin-right: 110px;
+
+}
+.qingdao{
+	font-size: 14px;
+	margin-right: 26px;
+}
+.bmail{
+	margin-left: 70px;
+	margin-bottom: 15px;
+	margin-top: 10px;
+}
+.lastbottom span{
+	height: 26px;
+	width: 1200px;
+	margin-top: 30px;
+	font-size: 12px;
+	color: #ffffff;
+}
+.laone{
+	margin-left: 132px;
+	margin-right: 140px;
+}
+/*tail结束*/
